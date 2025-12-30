@@ -1,0 +1,5 @@
+{
+  "name": "Copy of StreamPlan AI",
+  "description": "An AI-powered livestream scheduling tool. Input your natural language rules, and let Gemini generate a perfect monthly content calendar for you.",
+  "requestFramePermissions": []
+}
